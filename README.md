@@ -1,3 +1,3 @@
 Hi, I’m @bottlenoze
-I’m interested in C programming Operating systems.
-I’m currently learning C and operating systems
+I’m interested in c/c++ programming, Operating systems and web development.
+
